@@ -69,61 +69,61 @@ Below is a detailed breakdown of industry-leading commercial cloud platforms for
 
 Self-hosted, community-driven Predictive AI models, sales forecasting engines, and RevOps developer frameworks, sorted by **GitHub Stargazers Count** (descending).
 
-### 🥇 [LenzDu/Kaggle-Competition-Favorita](https://github.com/LenzDu/Kaggle-Competition-Favorita) [![GitHub stars](https://img.shields.io/github/stars/LenzDu/Kaggle-Competition-Favorita?style=social&color=white)](https://github.com/LenzDu/Kaggle-Competition-Favorita/stargazers)
+### 🥇 [LenzDu/Kaggle-Competition-Favorita](https://github.com/LenzDu/Kaggle-Competition-Favorita) [![GitHub_Stars](https://img.shields.io/github/stars/LenzDu/Kaggle-Competition-Favorita?style=social&color=white)](https://github.com/LenzDu/Kaggle-Competition-Favorita/stargazers)
 * **Stack:** Python 🐍 / LightGBM ⚡ / GBDT
 * **License:** Open Source
 * **Summary:** The 5th place competitive machine learning solution for large-scale grocery retail sales forecasting. Features state-of-the-art lag feature engineering, categorical embeddings, promo effect modeling, and gradient boosting ensembles.
 * **Best For:** Data science teams seeking battle-tested feature engineering pipelines and high-dimensional tabular sales prediction models.
 
-### 🥈 [davidthaler/Walmart_competition_code](https://github.com/davidthaler/Walmart_competition_code) [![GitHub stars](https://img.shields.io/github/stars/davidthaler/Walmart_competition_code?style=social&color=white)](https://github.com/davidthaler/Walmart_competition_code/stargazers)
+### 🥈 [davidthaler/Walmart_competition_code](https://github.com/davidthaler/Walmart_competition_code) [![GitHub_Stars](https://img.shields.io/github/stars/davidthaler/Walmart_competition_code?style=social&color=white)](https://github.com/davidthaler/Walmart_competition_code/stargazers)
 * **Stack:** R 📊 / Statistical Modeling / Time-Series Decomposition
 * **License:** Open Source
 * **Summary:** The 1st place winning code repository for the Walmart Store Sales Forecasting competition on Kaggle. Demonstrates championship-grade time-series decomposition, holiday adjustments, and markdown impact modeling.
 * **Best For:** Quantitative researchers and analysts needing robust statistical baselines for multi-store seasonal demand forecasting.
 
-### 🥉 [mollyryanruby/sales_forecasting](https://github.com/mollyryanruby/sales_forecasting) [![GitHub stars](https://img.shields.io/github/stars/mollyryanruby/sales_forecasting?style=social&color=white)](https://github.com/mollyryanruby/sales_forecasting/stargazers)
+### 🥉 [mollyryanruby/sales_forecasting](https://github.com/mollyryanruby/sales_forecasting) [![GitHub_Stars](https://img.shields.io/github/stars/mollyryanruby/sales_forecasting?style=social&color=white)](https://github.com/mollyryanruby/sales_forecasting/stargazers)
 * **Stack:** Python 🐍 / scikit-learn / XGBoost / Prophet / ARIMA
 * **License:** MIT
 * **Summary:** A comprehensive comparative benchmark implementing five distinct machine learning and statistical techniques to forecast product sales, with automated evaluation metrics (MAE, RMSE, MAPE).
 * **Best For:** Developers and data analysts seeking an accessible reference framework to compare classical time-series against tree-based regression.
 
-### 🔹 [Akajiaku11/Sales-Forecasting](https://github.com/Akajiaku11/Sales-Forecasting) [![GitHub stars](https://img.shields.io/github/stars/Akajiaku11/Sales-Forecasting?style=social&color=white)](https://github.com/Akajiaku11/Sales-Forecasting/stargazers)
+### 🔹 [Akajiaku11/Sales-Forecasting](https://github.com/Akajiaku11/Sales-Forecasting) [![GitHub_Stars](https://img.shields.io/github/stars/Akajiaku11/Sales-Forecasting?style=social&color=white)](https://github.com/Akajiaku11/Sales-Forecasting/stargazers)
 * **Stack:** Python 🐍 / ARIMA / statsmodels / pandas
 * **License:** Open Source
 * **Summary:** An end-to-end time-series analysis and sales prediction pipeline leveraging ARIMA and seasonal SARIMA models to forecast future demand from historical enterprise transaction datasets.
 * **Best For:** RevOps analysts seeking clean, reproducible statistical ARIMA pipelines for predictable baseline forecasting.
 
-### 🔹 [samirsaci/ml-forecast-features-eng](https://github.com/samirsaci/ml-forecast-features-eng) [![GitHub stars](https://img.shields.io/github/stars/samirsaci/ml-forecast-features-eng?style=social&color=white)](https://github.com/samirsaci/ml-forecast-features-eng/stargazers)
+### 🔹 [samirsaci/ml-forecast-features-eng](https://github.com/samirsaci/ml-forecast-features-eng) [![GitHub_Stars](https://img.shields.io/github/stars/samirsaci/ml-forecast-features-eng?style=social&color=white)](https://github.com/samirsaci/ml-forecast-features-eng/stargazers)
 * **Stack:** Python 🐍 / pandas / scikit-learn
 * **License:** MIT
 * **Summary:** Production-ready feature engineering library tailored specifically for machine learning sales and demand forecasting, covering promotional indicators, rolling statistics, calendar seasonality, and price elasticity signals.
 * **Best For:** ML engineers building custom sales forecasting systems who need modular, leak-free feature extraction scripts.
 
-### 🔹 [aasimansari1/Sales-Forecasting-System](https://github.com/aasimansari1/Sales-Forecasting-System) [![GitHub stars](https://img.shields.io/github/stars/aasimansari1/Sales-Forecasting-System?style=social&color=white)](https://github.com/aasimansari1/Sales-Forecasting-System/stargazers)
+### 🔹 [aasimansari1/Sales-Forecasting-System](https://github.com/aasimansari1/Sales-Forecasting-System) [![GitHub_Stars](https://img.shields.io/github/stars/aasimansari1/Sales-Forecasting-System?style=social&color=white)](https://github.com/aasimansari1/Sales-Forecasting-System/stargazers)
 * **Stack:** Python 🐍 / Streamlit 🎈 / XGBoost / Prophet / LSTM / ARIMA
 * **License:** MIT
 * **Summary:** An AI-powered full-stack sales forecasting and inventory planning application integrating 5 ML models (XGBoost, ARIMA, Prophet, LSTM), an interactive analytics dashboard, anomaly detection, and RFM customer segmentation.
 * **Best For:** Organizations seeking a turnkey, interactive web UI combining predictive time series with inventory alerts and customer segmentation.
 
-### 🔹 [MMBazel/Classifying-Sales-Calls](https://github.com/MMBazel/Classifying-Sales-Calls) [![GitHub stars](https://img.shields.io/github/stars/MMBazel/Classifying-Sales-Calls?style=social&color=white)](https://github.com/MMBazel/Classifying-Sales-Calls/stargazers)
+### 🔹 [MMBazel/Classifying-Sales-Calls](https://github.com/MMBazel/Classifying-Sales-Calls) [![GitHub_Stars](https://img.shields.io/github/stars/MMBazel/Classifying-Sales-Calls?style=social&color=white)](https://github.com/MMBazel/Classifying-Sales-Calls/stargazers)
 * **Stack:** Python 🐍 / XGBoost / AWS Redshift / SQLAlchemy / pandas
 * **License:** MIT
 * **Summary:** An end-to-end revenue intelligence pipeline translating Salesforce lead logs, opportunity updates, and rep activity signals into predictive deal outcome classifications and win-probability scores.
 * **Best For:** RevOps teams looking to connect data warehouse CRM activity streams directly to predictive deal-closing models.
 
-### 🔹 [anshkumar2311/AI-Powered-Sales-Forecasting-Dashboard](https://github.com/anshkumar2311/AI-Powered-Sales-Forecasting-Dashboard) [![GitHub stars](https://img.shields.io/github/stars/anshkumar2311/AI-Powered-Sales-Forecasting-Dashboard?style=social&color=white)](https://github.com/anshkumar2311/AI-Powered-Sales-Forecasting-Dashboard/stargazers)
+### 🔹 [anshkumar2311/AI-Powered-Sales-Forecasting-Dashboard](https://github.com/anshkumar2311/AI-Powered-Sales-Forecasting-Dashboard) [![GitHub_Stars](https://img.shields.io/github/stars/anshkumar2311/AI-Powered-Sales-Forecasting-Dashboard?style=social&color=white)](https://github.com/anshkumar2311/AI-Powered-Sales-Forecasting-Dashboard/stargazers)
 * **Stack:** Python 🐍 / Streamlit 🎈 / Plotly / Prophet
 * **License:** MIT
 * **Summary:** An interactive AI-driven sales forecasting dashboard built with Streamlit and Plotly, enabling sales managers to visualize KPIs, experiment with trend seasonality parameters, and export forecast data.
 * **Best For:** Small business operators and internal sales leads needing a lightweight, visual forecasting tool without complex setup.
 
-### 🔹 [goran-revops/pipeline-diff](https://github.com/goran-revops/pipeline-diff) [![GitHub stars](https://img.shields.io/github/stars/goran-revops/pipeline-diff?style=social&color=white)](https://github.com/goran-revops/pipeline-diff/stargazers)
+### 🔹 [goran-revops/pipeline-diff](https://github.com/goran-revops/pipeline-diff) [![GitHub_Stars](https://img.shields.io/github/stars/goran-revops/pipeline-diff?style=social&color=white)](https://github.com/goran-revops/pipeline-diff/stargazers)
 * **Stack:** Python 🐍 / HubSpot & Salesforce Connectors
 * **License:** MIT
 * **Summary:** An open-source pipeline change tracker and waterfall dashboard for HubSpot and Salesforce. Accurately tracks deal snapshot movements between forecast categories, surfaces deal slippage, and formats logs for AI agent ingestion.
 * **Best For:** RevOps analysts seeking local-first, privacy-conscious visibility into why quarterly pipeline forecasts moved.
 
-### 🔹 [cfagan17/overnight-gtm](https://github.com/cfagan17/overnight-gtm) [![GitHub stars](https://img.shields.io/github/stars/cfagan17/overnight-gtm?style=social&color=white)](https://github.com/cfagan17/overnight-gtm/stargazers)
+### 🔹 [cfagan17/overnight-gtm](https://github.com/cfagan17/overnight-gtm) [![GitHub_Stars](https://img.shields.io/github/stars/cfagan17/overnight-gtm?style=social&color=white)](https://github.com/cfagan17/overnight-gtm/stargazers)
 * **Stack:** Python 🐍 / PostgreSQL 🐘 / Supabase
 * **License:** MIT
 * **Summary:** An AI operating layer for go-to-market and RevOps that coordinates autonomous agent loops (deal inspection, pipeline review, territory planning) backed by PostgreSQL Row-Level Security (RLS) governance.
